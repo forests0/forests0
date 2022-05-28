@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Forests&fontColor=FFFFFF&fontSize=90&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Forests&fontColor=FFFFFF&fontSize=90&animation=blink)
 
 
 ### Hello!
