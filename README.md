@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Forests&fontColor=FFFFFF&fontSize=90&animation=blink)
 
 
-### Hello! I'm Gayeon Nam, Backend Enginner.
+### Hello! I'm Gayeon Nam.
 
  <h2> Tech Stack🔧 </h2>
 <p>
