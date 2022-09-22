@@ -4,7 +4,7 @@
 ### Hello! I'm Gayeon Nam.
 
  <h2> Contact With Me ✨ </h2>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/forestser00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
  <h2> Tech Stack 🔧 </h2>
 <p>
