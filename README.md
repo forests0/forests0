@@ -4,14 +4,15 @@
 ### Hello! I'm Gayeon Nam.
 
  <h2> Contact With Me ✨ </h2>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/forestser00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/forestser00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
+<a href="https://www.instagram.com/forests_er/"><img src="https://img.shields.io/badge/forests_er-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
  <h2> Tech Stack 🔧 </h2>
 <p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <br>
-<b>이친구로 알고리즘을 도전하고 있습니다.</b> <br><br>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> |<br>
+<b>이친구로 알고리즘을 도전하고 있습니다.</b> |<br><br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> | <br>
-<b>SQL을 쓴다면 이 두친구를 많이 씁니다.</b> <br><br>
+<b>SQL을 쓴다면 이 두친구를 많이 씁니다.</b> |<br><br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> | <br> 
 <b>제가 가장 많이 쓰는 친구입니다. 이 친구와 함께 잘 굴러가고 있습니다.</b> | <br>
  </p>
