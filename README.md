@@ -5,7 +5,6 @@
 
  <h2> Contact With Me ✨ </h2>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/forestser00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
-<a href="https://www.instagram.com/forests_er/"><img src="https://img.shields.io/badge/forests_er-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
  <h2> Tech Stack 🔧 </h2>
 <p>
