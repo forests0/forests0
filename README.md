@@ -5,7 +5,7 @@
 
  <h2> MY Gmail! 📨 </h2>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/forestser00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
-<a href="https://mail.google.com/mail/u/3/#inbox"><img src="https://img.shields.io/badge/forestser00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
+<a href="https://mail.google.com/mail/u/3/#inbox"><img src="https://img.shields.io/badge/seaurchin2493@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
 
  <h2> Tech Stack 🔧 </h2>
 <p>
