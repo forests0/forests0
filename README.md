@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Forests&fontColor=FFFFFF&fontSize=90&animation=blink)
 
 
-### Hello! I'm Gayeon Nam,
+### Hello! I'm Gayeon Nam. 
 
- <h2> MY Gmail! 📨 </h2>
+ <h2> Contact With Me 📨 </h2>
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/forestser00@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
 <a href="https://mail.google.com/mail/u/3/#inbox"><img src="https://img.shields.io/badge/seaurchin2493@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
 
