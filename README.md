@@ -30,6 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forests0&layout=compact)](https://github.com/forests0/github-readme-stats)
 
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=forests0)](https://github.com/forests0/github-readme-stats)
 
  ---
