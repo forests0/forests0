@@ -10,11 +10,11 @@
  <h2> Tech Stack 🔧 </h2>
 <p>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> |<br>
-<b>알고리즘</b> |<br><br>
+<b>알고리즘 도전용</b> |<br><br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> | <br>
-<b>SQL</b> |<br><br>
+<b>SQL 사용 시 사용합니다</b> |<br><br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> | <br> 
-<b>자주 사용</b> | <br>
+<b>자주 사용합니다</b> | <br>
  </p>
  <br>
  
