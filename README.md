@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=220&section=header&text=Forests&fontColor=FFFFFF&fontSize=90&animation=blink)
 
-### Hello, I'm Gayeon Nam. I'm in BSSM (2021~)
+### Hello, I'm Gayeon Nam. -ㅅ-) I'm in BSSM (2021~)
 
  <h2> Contact With Me 📨 </h2>
 <a href="https://mail.google.com/mail/u/3/#inbox"><img src="https://img.shields.io/badge/seaurchin2493@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
