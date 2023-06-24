@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=b4e4db&height=220&section=header&text=Forests&fontColor=FFFFFF&fontSize=90&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=b4e4db&height=220&section=header&text=Nam_Gayeon&fontColor=FFFFFF&fontSize=90&animation=blink)
 
 ### Hello, I'm Gayeon Nam. -ㅅ- I'm in BSSM (2021~)
 
