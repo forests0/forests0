@@ -5,7 +5,7 @@
 
  <h2> Contact With Me 🌐 </h2>
 <a href="https://mail.google.com/mail/u/3/#inbox"><img src="https://img.shields.io/badge/seaurchin2493@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
-
+<a href="https://mail.google.com/mail/u/3/#inbox"><img src="https://img.shields.io/badge/https://velog.io/@seaurchin2-20C997?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <h2> Tech Stack 🔧 </h2>
 <p>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> |<br>
