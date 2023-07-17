@@ -2,6 +2,7 @@
 
 ### Hello, I'm Gayeon Nam. -ㅅ- 
 ### I'm in BSSM (2021~)
+#### Node.js를 이용한 백엔드를 주로 하고있고, R을 이용한 데이터분석을 취미로 하고있습니다
 
  <h2> Contact With Me 🌐 </h2>
 <a href="https://mail.google.com/mail/u/3/#inbox"><img src="https://img.shields.io/badge/seaurchin2493@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
