@@ -26,6 +26,6 @@
 
 
 --- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=forests0&show_icons=true&theme=radical)](https://github.com/forests0/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=forests0&show_icons=true&theme=merko)](https://github.com/forests0/github-readme-stats)
 ---
 
