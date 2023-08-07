@@ -19,9 +19,9 @@
  <br>
  
  <h2> Studying 📘 </h2>
- <h4>사용할 줄 아는 언어 & 프레임워크</h4>
+ <h4> 공부하고 있는 언어 & 프레임워크</h4>
  <p>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> | <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> | <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=Dart&logoColor=white"/> | 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> | <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> | <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=Dart&logoColor=white"/> | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=Dart&logoColor=white"/> |
 </p>
 
 
