@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=b4e4db&height=220&section=header&text=Nam_Gayeon&fontColor=FFFFFF&fontSize=90&animation=blink)
 
 ### Hello, I'm Gayeon Nam!  -ㅅ- 
-### BSSM (2021~)
+### 🚩 BSSM (2021~)
 #### Node.js를 이용한 백엔드 개발을 주로 하고있고, R을 이용한 데이터분석을 취미로 하고있습니다.
 
  <h2> Contact With Me 🌐 </h2>
@@ -19,7 +19,7 @@
  <br>
  
  <h2> Studying 📘 </h2>
- <h4> 공부하고 있는 언어 & 프레임워크</h4>
+ <h4> 공부하고 있는 언어 & 프레임워크 </h4>
  <p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> | <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> | <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> | <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> |
 </p>
